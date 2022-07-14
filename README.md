@@ -1,7 +1,7 @@
 <html>
 <body>
   
-<h1>Nada de mais, somente projetos em java</h1> 
+<h1>Nada demais, somente projetos em java</h1> 
 <pre>Talvez tenha projetos legais.
 Talvez não.
 Mas a vida é assim.
